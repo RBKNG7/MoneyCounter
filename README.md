@@ -44,11 +44,3 @@ MoneyCounter es una aplicación que permite gestionar y contar dinero fácilment
 <img src="images/billsnadcoins.png" alt="Resultado de Billetes y Monedas" width="300"/>
 </div>
 
-<br><br>
-
-<div align="center">
-<h3>Resultado Final</h3>
-<img src="images/coinsresult.png" alt="Resultado Final" width="300"/>
-</div>
-
-<br><br>
