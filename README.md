@@ -1,20 +1,25 @@
 # MoneyCounter
 
-MoneyCounter es una aplicación que permite gestionar y contar dinero fácilmente. 🚀
+MoneyCounter es una aplicación que permite gestionar y contar dinero fácilmente. 💸💰
 
-## Capturas de Pantalla
 
 ### Menú Principal
-![Menú Principal](images/principalmenu.PNG)
+<img src="images/principalmenu.PNG" alt="Menú Principal" width="300"/>
 
-### Pantalla de Billetes
-![Billetes](images/bills.png)
+### Billetes
+<img src="images/bills.png" alt="Billetes" width="300"/>
 
-### Pantalla de Monedas
-![Monedas](images/coins.png)
+### Resultado Billetes
+<img src="images/billsresult.png" alt="Monedas" width="300"/>
+
+### Monedas
+<img src="images/coins.png" alt="Monedas" width="300"/>
+
+### Resultado Monedas
+<img src="images/coinsresult.png" alt="Monedas" width="300"/>
 
 ### Resultado de Billetes y Monedas
-![Resultado de Billetes y Monedas](images/billsnadcoins.png)
+<img src="images/billsnadcoins.png" alt="Resultado de Billetes y Monedas" width="300"/>
 
 ### Resultado Final
-![Resultado Final](images/coinsresult.png)
+<img src="images/coinsresult.png" alt="Resultado Final" width="300"/>
